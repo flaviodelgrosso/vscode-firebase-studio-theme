@@ -1,6 +1,6 @@
-# Monospace Theme for Visual Studio Code
+# Monospace Themes for Visual Studio Code
 
-**Monospace Theme** is an unofficial theme for Visual Studio Code inspired by the colors of [Firebase Studio](https://studio.firebase.google.com/) for your coding environment.
+**Monospace Themes** is an unofficial set of themes for Visual Studio Code inspired by the colors of [Firebase Studio](https://studio.firebase.google.com/) for your coding environment.
 
 ![monospace-studio-dark](./assets/monospace-studio-dark.png)
 ![monospace-studio-light](./assets/monospace-studio-light.png)
