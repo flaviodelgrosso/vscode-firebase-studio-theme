@@ -1,7 +1,7 @@
 {
   "name": "vscode-monospace-theme",
-  "displayName": "Monospace Studio Theme",
-  "description": "The Monospace theme inspired by Firebase Studio for Visual Studio Code",
+  "displayName": "Monospace Studio Themes",
+  "description": "The Monospace themes inspired by Firebase Studio for Visual Studio Code",
   "version": "1.0.0",
   "license": "MIT",
   "publisher": "flaviodelgrosso",
@@ -46,6 +46,16 @@
         "label": "Monospace Light",
         "uiTheme": "vs",
         "path": "./themes/monospace-light.json"
+      },
+      {
+        "label": "Studio Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/studio-dark.json"
+      },
+      {
+        "label": "Studio Light",
+        "uiTheme": "vs",
+        "path": "./themes/studio-light.json"
       }
     ]
   }
