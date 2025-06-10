@@ -48,12 +48,12 @@
         "path": "./themes/monospace-light.json"
       },
       {
-        "label": "Studio Dark",
+        "label": "Monospace Studio Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/studio-dark.json"
       },
       {
-        "label": "Studio Light",
+        "label": "Monospace Studio Light",
         "uiTheme": "vs",
         "path": "./themes/studio-light.json"
       }
