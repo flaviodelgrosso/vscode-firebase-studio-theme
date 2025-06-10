@@ -4,8 +4,10 @@
 
 * This folder contains all of the files necessary for your color theme extension.
 * `package.json` - this is the manifest file that defines the location of the theme file and specifies the base theme of the theme.
-* `themes/monospace-dark.json` - the dark color theme definition file.
-* `themes/monospace-light.json` - the light color theme definition file.
+* `themes/monospace-dark.json` - the dark color theme definition file inspired by Monospace theme.
+* `themes/monospace-light.json` - the light color theme definition file inspired by Monospace theme.
+* `themes/monospace-studio-dark.json` - the dark color theme definition file inspired by Google theme.
+* `themes/monospace-studio-light.json` - the light color theme definition file inspired by Google theme.
 
 ## Get up and running straight away
 
