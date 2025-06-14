@@ -36,6 +36,13 @@
     "Themes"
   ],
   "contributes": {
+    "iconThemes": [
+      {
+        "id": "monospace-studio-icons",
+        "label": "Monospace Studio Icons",
+        "path": "./icons/monospace-studio-icons-theme.json"
+      }
+    ],
     "themes": [
       {
         "label": "Monospace Dark",
