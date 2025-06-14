@@ -40,7 +40,7 @@
       {
         "id": "monospace-studio-icons",
         "label": "Monospace Studio Icons",
-        "path": "./icons/monospace-studio-icons-theme.json"
+        "path": "./icons/monospace-file-icon-theme.json"
       }
     ],
     "themes": [
